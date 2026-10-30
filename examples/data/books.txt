@@ -1,0 +1,2 @@
+B001	CP4 예제 도서 1	테스트 저자	AVAILABLE
+B002	CP4 예제 도서 2	테스트 저자	AVAILABLE

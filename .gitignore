@@ -1,0 +1,19 @@
+# Local IDE / build output
+.idea/
+*.iml
+out/
+build/
+bin/
+*.class
+docs/api/
+dist/
+distribution/
+*.jar
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.kotlin
+# Private mutable application data; publish only examples/data
+/data/

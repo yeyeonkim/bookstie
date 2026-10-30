@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Bookstie" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="bookstie.Main" />
+    <module name="Bookstie" />
+    <classpathModifications>
+      <entry path="$PROJECT_DIR$" />
+    </classpathModifications>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
