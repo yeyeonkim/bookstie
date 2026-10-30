@@ -1,2 +1,18 @@
-B001	CP4 예제 도서 1	테스트 저자	AVAILABLE
-B002	CP4 예제 도서 2	테스트 저자	AVAILABLE
+B001	모순	양귀자	AVAILABLE
+B018	모순	양귀자	AVAILABLE
+B002	리버스 엔지니어 바이블 : 코드 재창조의 미학	강병탁	LOANED
+B003	즐거운 리버싱 : 리버스 엔지니어링 입문	아이코우 켄지	AVAILABLE
+B004	리버싱 : 리버스 엔지니어링의 비밀을 파헤치다	Eliam, Eldad	LOANED
+B005	남겨진 시간	조르조 아감벤	AVAILABLE
+B006	알레프	호르헤 루이스 보르헤스	AVAILABLE
+B007	죽은 신을 위하여	슬라보이 지젝	AVAILABLE
+B008	세속주의를 묻는다	이진구	AVAILABLE
+B009	종교학자의 서재	이정화	AVAILABLE
+B010	참을 수 없는 존재의 가벼움	밀란쿤데라	AVAILABLE
+B011	불멸	밀란 쿤데라	AVAILABLE
+B012	농담	밀란 쿤데라	AVAILABLE
+B013	사탄탱고	크리스너호르커이 라슬로	AVAILABLE
+B014	서술트릭의 모든 것	니타도리 게이	AVAILABLE
+B015	물리와 철학	베르너 하이젠베르크	AVAILABLE
+B016	코스모스	칼세이건	AVAILABLE
+B017	소년이 온다	한강	AVAILABLE
