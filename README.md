@@ -33,6 +33,9 @@ data 폴더에는 users.txt, admins.txt, books.txt, loans.txt가 포함되어야
 | 일반 사용자 | jjjj | jjjj |
 | 관리자 | admin | 1234 |
 
+## 테스트할 도서검색 텍스트
+리버스 엔지니어링
+
 **관리자 로그인 화면은 사용자 로그인 화면의 admin 버튼으로 이동할 수 있음.**
 
 
